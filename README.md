@@ -1,5 +1,5 @@
 # Brute-Force
-Simulated and investigated a Brute force attack on Splunk.
+Simulated and investigated a network-based Brute-force attack on Splunk.
 
 ## Objective
 The objective of this project was to simulate a brute-force attack against a target system and use Splunk to detect, analyze, and investigate the malicious authentication attempts. This project demonstrates hands-on experience with SIEM log analysis, identifying attack patterns, and understanding security events.
