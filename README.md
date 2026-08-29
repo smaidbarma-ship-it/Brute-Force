@@ -13,7 +13,7 @@ The objective of this project was to simulate a brute-force attack against a tar
 ## Step-by-Step Walkthrough
 
 ### Step 1: Simulating the Attack
-I initiated a high-volume automated brute-force attack targeting a specific user account to generate authentication failures.
+I initiated a high-volume automated brute-force attack targeting a specific user account to generate authentication failures, which was done via Metasploit SMB modules within secure and private host-only networks.
 
 ### Step 2: Configuring Splunk Ingestion
 Set up Splunk to ingest the security logs from the targeted machine's Splunk Universal Forwarder to ensure all event data was properly captured for analysis.
